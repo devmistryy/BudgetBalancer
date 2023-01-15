@@ -45,14 +45,14 @@ export default function Login() {
 
       <View>
       <TouchableOpacity onPress={() =>{}}>
-      <Text style={{color:'AD40AF', fontweight:'700', marginBottom:25, marginTop:3, marginLeft: 240, color:'purple'}}>Forgot?</Text>
+      <Text style={{color:'AD40AF', fontweight:'700', marginBottom:25, marginTop:3, marginLeft: 240, color:'purple'}}></Text>
       </TouchableOpacity>
       </View>
 
       
       <View style={styles.container}>
         <Button
-        title=" Login    "
+        title=" Create    "
         color = '#2e5b5e'
         fontweight=''
         fontSize='40'
