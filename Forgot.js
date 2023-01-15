@@ -10,7 +10,7 @@ export default function Login() {
     
     <AssetExample />
       <Text style={{fontFamily:'Times-New-Roman', fontSize:27, marginBottom:30, marginTop:-15}}>
-        Login 
+        Forgot 
       </Text>
       <View/>
       
